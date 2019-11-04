@@ -1,0 +1,319 @@
+/* ==========================================================================================
+  Theme Name: Bizz
+  Author: VS_THEMES
+  Support: visakhinkollam@gmail.com
+  Description: Bizz - Business Consulting and Agency HTML Template
+  Version: 1.0
+========================================================================================== */
+
+
+/*-------------------------------------------------------
+
+    CSS INDEX
+    ===================
+
+    1. Color black
+    2. Color light white
+    3. Color yellow
+    4. Bg black
+    5. Bg yellow
+    6. Bg light white
+    7. Border Yellow
+    8. Border black
+
+
+-------------------------------------------------------*/
+
+
+/* ....................................
+1. Color black
+.......................................*/
+
+.black,
+body,
+a,
+a:hover,
+.form-control,
+.btn-black:hover,
+.input-border,
+.layout-switcher .nav-pills .nav-link.active,
+.layout-switcher .nav-pills .show>.nav-link,
+h1, h2, h3, h4, h5, h6,
+.latest_mawlad_khotba h4 a, .latest_mawlad_khotba h6 a,
+.insta_url,
+.insta_url:hover,
+.grid-author a:hover,
+.post_detail .khotba_inside ul li a,
+.psot_share a,
+.psot_tags a,
+.psot_tags,
+.psot_share,
+.mawlad_venue ul li span,
+.sa-team-social li i:hover,
+.sidebar_nav ul li a,
+.post_meta .meta_admin:hover,
+.sj-product-review ul li a.active {
+    color: #201c15;
+}
+
+
+/* ....................................
+2. Color light white
+.......................................*/
+
+.light-white,
+.icon-bg-quote,
+.quote-right-light {
+    color: #fff4d9;
+}
+
+
+/* ....................................
+3. Color yellow
+.......................................*/
+.khotba_meta li i,
+.latest_mawlad_khotba h4 a:hover, .latest_mawlad_khotba h6 a:hover,
+.latest_mawlad_khotba .mawlad_date,
+.mawlad_date span,
+.mawlad_info ul li i,
+.khotba_info ul li a:hover,
+.khotba_info h5 a:hover,
+.khotba_inside ul li a:hover,
+.layout-switcher a.active,
+.layout-switcher a:hover,
+.khotba_meta li a:hover,
+.navbar-nav li a:hover, .navbar-nav li a.active,
+.follow_us ul li a:hover,
+.gallery-item.can-popup .thumb::after,
+.post_date a,
+.blog_info h5 a:hover,
+.follow_us ul li a:focus,
+.footer_links a:hover,
+.footer_nav li a:hover,
+.footer_nav li a.active,
+.footer_widget p a:hover,
+.primary-color,
+.insta_url:hover,
+.grid-author a,
+.post_detail .khotba_inside ul li a:hover,
+.psot_share a:hover,
+.psot_tags a:hover,
+.date span,
+.post_meta li i,
+blockquote h6,
+.f__icon,
+.sa-paster-about-area .designation,
+.sa-team-social li a i,
+.btn-link,
+.sidebar_nav ul li a:hover,
+.post_meta .meta_admin,
+.quote-name,
+.sj-shop-tags-meta a:hover,
+.sj-shop-catg-meta a:hover,
+.sj-product-review ul li a:hover,
+.checkout-form .card-title a:hover,
+.login-page a,
+.login-form-s label a {
+    color: #f6ae2d;
+}
+
+
+/* ....................................
+4. Bg black
+.......................................*/
+
+.sticky,
+.secondary-bg,
+.footer_bottom,
+.breadcrumb ul li.breadcrumb-item,
+.dark-btn:hover,
+.sj-left-arrow:hover, .sj-right-arrow:hover,
+#back-top a:hover,
+.insta_url:hover,
+.sj_bg_wrap.sj_bg_overlay::before,
+.table.sj-schedules-table .thead-dark th,
+.mawlad_date,
+.mawlad_timer,
+.contact_info,
+.product_content,
+.sj-header  {
+    background: #201c15;
+}
+
+
+/*black bg opacity classes*/
+
+.bg-black-op-9,
+.type4.fixed-nav,
+.login-box{
+    background: rgba(32, 28, 21, 0.9);
+}
+
+.bg-black-op-8,
+.mnsry-work .overlay-full {
+    background: rgba(32, 28, 21, 0.8);
+}
+
+.bg-black-op-7 {
+    background: rgba(32, 28, 21, 0.7);
+}
+
+.bg-black-op-6,
+.blog-2-each:hover .blogoverlay-hover,
+.team-img:before {
+    background: rgba(32, 28, 21, 0.6);
+}
+
+.bg-black-op-5 {
+    background: rgba(32, 28, 21, 0.5);
+}
+
+.bg-black-op-4 {
+    background: rgba(32, 28, 21, 0.4);
+}
+
+.bg-black-op-3,
+.blogoverlay-hover {
+    background: rgba(32, 28, 21, 0.3);
+}
+
+.bg-black-op-2,
+.sidebar-left::-webkit-scrollbar-thumb {
+    background: rgba(32, 28, 21, 0.2);
+}
+
+.bg-black-op-1,
+.footer-social li a {
+    background: rgba(32, 28, 21, 0.1);
+}
+
+.bg-black-op-0 {
+    background: rgba(32, 28, 21, 0);
+}
+
+
+/* ....................................
+5. Bg yellow
+.......................................*/
+.sj-navbar .sa_count span,
+.dark-btn,
+.owl-dots div,
+.sj-left-arrow, .sj-right-arrow,
+.sj-video-section a,
+.navbar ul li ul.sub-menu li:hover,
+.insta_url,
+#back-top a,
+.sj-schedules-table .table-body tr.current,
+.breadcrumb ul li.breadcrumb-item.active,
+.sa-paster-about-area .designation:after,
+.sa-team-social li i:hover,
+.tag_cloud a:hover,
+#sj .sidebar_widgets .sj-price-filter .irs--round .irs-from,
+#sj .sidebar_widgets .sj-price-filter .irs--round .irs-to,
+#sj .sidebar_widgets .sj-price-filter .irs--round .irs-single,
+#sj .irs--round .irs-bar,
+.product_action ul li a:hover,
+.sj-single-product-details-social ul li a:hover,
+.sj-single-product-purches .quantity button:hover,
+.btn,
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before{
+    background: #f6ae2d;
+}
+
+
+/*yellow bg opacity classes*/
+.bg-yellow-op-9,
+.team_url  {
+    background: rgba(246, 174, 45, 0.9);
+}
+
+.bg-yellow-op-8 {
+    background: rgba(246, 174, 45, 0.8);
+}
+
+.bg-yellow-op-7 {
+    background: rgba(246, 174, 45, 0.7);
+}
+
+.bg-yellow-op-6 {
+    background: rgba(246, 174, 45, 0.6);
+}
+
+.bg-yellow-op-5 {
+    background: rgba(246, 174, 45, 0.5);
+}
+
+.bg-yellow-op-4,
+.sj-video-header .overlay {
+    background: rgba(246, 174, 45, 0.4);
+}
+
+.bg-yellow-op-3 {
+    background: rgba(246, 174, 45, 0.3);
+}
+
+.bg-yellow-op-2 {
+    background: rgba(246, 174, 45, 0.2);
+}
+
+.bg-yellow-op-1 {
+    background: rgba(0, 28, 107, 0.1);
+}
+
+
+/* ....................................
+6. Bg  light white
+.......................................*/
+
+.bg-light-white,
+.about-me[data-overlay]::before,
+.blog-2[data-overlay]::before,
+.subscribe:hover,
+.flipper .back {
+    background: #fff4d9;
+}
+
+
+/* ....................................
+7. Border Yellow
+.......................................*/
+.khotba_inside ul li a:hover,
+.blog_info,
+.form-control:focus,
+.sidebar_nav ul li a:hover,
+.tag_cloud a:hover,
+#sj .irs--round .irs-handle,
+.product_action ul li a:hover {
+    border-color: #f6ae2d;
+}
+
+
+/*border left color*/
+
+.happyclients:before {
+    border-left-color: #f6ae2d;
+}
+
+/*border left color*/
+
+.login-section .card{
+  border-bottom-color: #f6ae2d;
+}
+
+
+/* ....................................
+8. Border black
+.......................................*/
+.border-black,
+.menu-social li a,
+.input-border,
+.btn-filter.active,
+.btn-filter:hover,
+.video-area,
+.black-border,
+.inner-cart-box,
+.prdt-list-btns .btn-detail,
+.rate-img-bt .btn,
+#back-top a  {
+    border-color: #201c15;
+}
